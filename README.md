@@ -1,6 +1,6 @@
 # ElixirWeather
 
-**TODO: Add description**
+**First concurrent program in Elixir**
 
 ## Installation
 
